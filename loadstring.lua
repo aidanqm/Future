@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/joeengo/Future/main/Initiate.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YukileNeko/Future/main/Run.lua"))()
